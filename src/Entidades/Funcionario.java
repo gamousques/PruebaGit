@@ -11,4 +11,5 @@ package Entidades;
 public class Funcionario extends Persona {
     private float sueldo;
     private String cedulaIdentidad;
+    
 }
