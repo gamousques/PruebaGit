@@ -13,4 +13,5 @@ public class Cargo {
     private int Id;
     private String nombre;
     private int saldo;
+    private String direccion;
 }
