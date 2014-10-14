@@ -10,5 +10,5 @@ package Entidades;
  * @author gaston
  */
 public class Cargo {
-    
+    private int Id;
 }
