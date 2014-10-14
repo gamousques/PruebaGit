@@ -9,5 +9,5 @@ package Entidades;
  * @author mousques
  */
 public class Funcionario extends Persona {
-    
+    private float sueldo;
 }
