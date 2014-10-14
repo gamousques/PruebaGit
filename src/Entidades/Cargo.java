@@ -11,5 +11,5 @@ package Entidades;
  */
 public class Cargo {
     private int Id;
-    private string nombre;
+    private String nombre;
 }
