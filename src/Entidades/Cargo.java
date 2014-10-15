@@ -13,4 +13,5 @@ public class Cargo {
     private int Id;
     private String nombre;
     private String nombreExterno;
+    private String paraBranch;
 }
