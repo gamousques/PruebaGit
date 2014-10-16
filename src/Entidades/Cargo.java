@@ -14,4 +14,5 @@ public class Cargo {
     private String nombre;
     private String nombreExterno;
     private String paraBranch;
+    private String otraCosa;
 }
